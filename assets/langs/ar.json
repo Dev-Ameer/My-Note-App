@@ -1,0 +1,28 @@
+{
+    "appTitle": "مذكراتي", 
+    "pageaddtitl":"مذكرة جديدة",
+    "txtfildtiteladd":"عنوان المذكرة",
+    "txtfilddetalladd":"تفاصيل المذكرة",
+    "importadd":"الاهمية",
+    "import":"مهم",
+    "normal":"عادي",
+    "save":"حفظ",
+    "pageedittitl":"تعديل المذكرة",
+    "pagsitting":"الاعدادات",
+    "lang":"الغة",
+    "mode":"الوضع",
+    "langs":"English",
+    "mod1":"الداكن",
+    "mod2":"العادي",
+    "donadd":"تم الاضافة",
+    "del":"الحذف",
+    "notdel":"هل تريد حذف الملاحظة؟",
+    "yes":"نعم",
+    "no":"لا",
+    "notdelall":"هل تريد حذف جميع الملاحظات؟",
+    "doneidt":"تم التعديل",
+    "errtitel":"تاكد من ادخال الحقل !!"
+
+
+
+}
