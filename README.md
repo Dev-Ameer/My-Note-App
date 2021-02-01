@@ -1,7 +1,7 @@
 # project2
 
 A new Flutter project.
-
+Application video: on youtube : https://youtu.be/aDZsBs30Yw0
 ## Getting Started
 
 This project is a starting point for a Flutter application.
